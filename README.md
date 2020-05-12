@@ -9,3 +9,7 @@ The algorithm has two steps:
 Steps 1 and 2 are repeated until means do not change.
 
 For every iteration, a plot is generated to visualy follow the clusters.
+
+# Usage
+Clone repository and run k_means.py using any IDE.
+
