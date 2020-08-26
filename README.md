@@ -15,7 +15,7 @@ Clone repository and run k_means.py using any IDE.
 
 # Plot Examples
 
-![Start](https://github.com/melanchthon19/k_means/blob/master/plot_examples/unclassified.png)
+![Start](https://github.com/melanchthon19/k_means/blob/master/plot_examples/unclassified.png | width=150)
 ![First Iteration](https://github.com/melanchthon19/k_means/blob/master/plot_examples/i1.png)
 ![Third Iteration](https://github.com/melanchthon19/k_means/blob/master/plot_examples/i3.png)
 ![Converged Iteration](https://github.com/melanchthon19/k_means/blob/master/plot_examples/converged.png)
