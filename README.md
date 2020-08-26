@@ -15,9 +15,7 @@ Clone repository and run k_means.py using any IDE.
 
 # Plot Examples
 
-![alt text](https://github.com/melanchthon19/k_means/plot_examples/unclassified.png)
-![alt text](https://github.com/melanchthon19/k_means/plot_examples/i1.png?raw=true)
-![alt text](https://github.com/melanchthon19/k_means/plot_examples/i3.png?raw=true)
-![alt text](https://github.com/melanchthon19/k_means/plot_examples/converged.png?raw=true)
-
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Start](https://github.com/melanchthon19/k_means/blob/master/plot_examples/unclassified.png)
+![First Iteration](https://github.com/melanchthon19/k_means/blob/master/plot_examples/i1.png)
+![Third Iteration](https://github.com/melanchthon19/k_means/blob/master/plot_examples/i3.png)
+![Converged Iteration](https://github.com/melanchthon19/k_means/blob/master/plot_examples/converged.png)
