@@ -19,3 +19,5 @@ Clone repository and run k_means.py using any IDE.
 ![alt text](https://github.com/melanchthon19/k_means/plot_examples/i1.png?raw=true)
 ![alt text](https://github.com/melanchthon19/k_means/plot_examples/i3.png?raw=true)
 ![alt text](https://github.com/melanchthon19/k_means/plot_examples/converged.png?raw=true)
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
