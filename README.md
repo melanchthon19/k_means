@@ -1,7 +1,7 @@
 # K-means
-Run ./k_means.py to plot how k-means works.
+Cluster algorithm to assign data to k clusters.
 
-100 data points and 2 means are randomly generated.
+This code generates 100 random data points that are clustered in k=2 clusters.
 
 The algorithm has two steps:
 1) Data are classified according to the initial means.
