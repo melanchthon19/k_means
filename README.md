@@ -1,5 +1,5 @@
 # K-means
-Cluster algorithm to plot how k-means works.
+Run ./k_means.py to plot how k-means works.
 
 100 data points and 2 means are randomly generated.
 
@@ -13,3 +13,9 @@ For every iteration, a plot is generated to visualy follow the clusters.
 # Usage
 Clone repository and run k_means.py using any IDE.
 
+# Plot Examples
+
+![alt text](https://github.com/melanchthon19/k_means/plot_examples/unclassified.jpg?raw=true)
+![alt text](https://github.com/melanchthon19/k_means/plot_examples/i1.jpg?raw=true)
+![alt text](https://github.com/melanchthon19/k_means/plot_examples/i3.jpg?raw=true)
+![alt text](https://github.com/melanchthon19/k_means/plot_examples/converged.jpg?raw=true)
