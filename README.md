@@ -14,8 +14,7 @@ For every iteration, a plot is generated to visualy follow the clusters.
 Clone repository and run k_means.py using any IDE.
 
 # Plot Examples
-<img src="https://github.com/melanchthon19/k_means/blob/master/plot_examples/unclassified.png" width="200" height="200" />
-![Start](https://github.com/melanchthon19/k_means/blob/master/plot_examples/unclassified.png =150x)
-![First Iteration](https://github.com/melanchthon19/k_means/blob/master/plot_examples/i1.png)
-![Third Iteration](https://github.com/melanchthon19/k_means/blob/master/plot_examples/i3.png)
-![Converged Iteration](https://github.com/melanchthon19/k_means/blob/master/plot_examples/converged.png)
+<img src="https://github.com/melanchthon19/k_means/blob/master/plot_examples/unclassified.png" width="400" height="400" />
+<img src="https://github.com/melanchthon19/k_means/blob/master/plot_examples/i1.png" width="400" height="400" />
+<img src="https://github.com/melanchthon19/k_means/blob/master/plot_examples/i3.png" width="400" height="400" />
+<img src="https://github.com/melanchthon19/k_means/blob/master/plot_examples/converged.png" width="400" height="400" />
